@@ -1,64 +1,70 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=000000&height=200&section=header&text=DEVELOPER%20&%20CREATOR&fontSize=50&fontColor=00ffea&animation=twinkling" />
+  
+# 💫 Hi there, I'm [Your Name]
+<a href="https://github.com/Brijesh0006">
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=00b4d8&height=150&section=header&text=Full%20Stack%20Developer%20&%20Creator&fontSize=45&animation=fadeIn&fontAlignY=35&fontColor=ffffff" />
+</a>
 
-  <h1> Hey there! I'm [Your Name] ⚡ </h1>
-
-  <p>
-    <b>B.Tech CSE Student | Full-Stack Enthusiast | Content Creator</b>
+  ### ⚡ B.Tech CSE Student | MERN Stack | Calisthenics Athlete
+  
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Apps;Pushing+Human+Potential;Content+Creation+%26+Editing;Always+Learning+New+Tech" alt="Typing SVG" />
   </p>
-
-  <img src="https://img.shields.io/badge/-Full--Stack-00ffea?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Backend-ff0055?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Fitness-yellow?style=flat-square&logo=google-fit&logoColor=black" />
 </div>
 
 ---
 
-### 🚀 Technical Arsenal
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💻 Development</h4>
-      <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,git" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎨 Creative & Other</h4>
-      <img src="https://skillicons.dev/icons?i=postman,vscode,figma" />
-      <br><br>
-      • Professional Video Editing <br>
-      • Bodyweight Strength Specialist
-    </td>
-  </tr>
-</table>
+### 🚀 About Me
+- 🔭 **Focus:** Mastering the MERN Stack and Backend Architecture.
+- 🏋️ **Lifestyle:** Dedicated to Calisthenics—I believe discipline in training translates to discipline in coding.
+- 🎬 **Creative:** Transforming raw footage into engaging stories using CapCut.
+- 🎓 **Education:** Pursuing B.Tech in Computer Science and Engineering.
 
 ---
 
-### 📈 Activity Hub
+### 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=vision-friendly-dark&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=vision-friendly-dark&hide_border=true" width="45%" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,ejs,postman,git,vscode,capcut,figma" />
 </p>
 
+---
+
+### 📊 My GitHub Journey
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[YOUR-USERNAME]&theme=tokyonight" width="90%" />
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=tokyonight&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR-USERNAME]&theme=tokyonight&hide_border=true" width="100%" />
 </div>
 
 ---
 
-### 💬 Get In Touch
+### 🤝 Let's Connect
 <div align="center">
-  <a href="https://linkedin.com/in/[YOUR-LINKEDIN]">
+  <a href="https://linkedin.com/in/[YOUR-LINKEDIN]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/[YOUR-INSTAGRAM]">
+  <a href="https://instagram.com/[YOUR-INSTAGRAM]" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
-<br>
+<br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="80%" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?user=[YOUR-USERNAME]&label=Profile%20Views&color=00b4d8&style=flat" alt="Views" />
+</p>
