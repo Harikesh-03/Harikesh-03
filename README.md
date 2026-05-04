@@ -1,41 +1,64 @@
-# Hi there, I'm Harikesh Singh 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=000000&height=200&section=header&text=DEVELOPER%20&%20CREATOR&fontSize=50&fontColor=00ffea&animation=twinkling" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Full%20Stack%20Developer&fontSize=70&animation=fadeIn" />
-</p>
+  <h1> Hey there! I'm [Your Name] ⚡ </h1>
 
-### 💫 About Me
-I am a **Computer Science & Engineering student** with a passion for building scalable web applications and exploring the intersection of technology and fitness. I thrive on solving complex problems and turning ideas into functional, user-centric digital experiences.
+  <p>
+    <b>B.Tech CSE Student | Full-Stack Enthusiast | Content Creator</b>
+  </p>
 
-- 🔭 I’m currently working on **Full Stack Web Applications**
-- 🌱 I’m currently learning **Advanced Backend Architecture and System Design**
-- ⚡ Fun fact: When I'm not coding, I'm usually practicing **Calisthenics** and bodyweight strength training.
-
----
-
-### 🛠️ Tech Stack
-
-**Frontend**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
-
-**Backend & Database**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools & Creative**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=CapCut&logoColor=white)
+  <img src="https://img.shields.io/badge/-Full--Stack-00ffea?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Backend-ff0055?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Fitness-yellow?style=flat-square&logo=google-fit&logoColor=black" />
+</div>
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Technical Arsenal
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Development</h4>
+      <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,git" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎨 Creative & Other</h4>
+      <img src="https://skillicons.dev/icons?i=postman,vscode,figma" />
+      <br><br>
+      • Professional Video Editing <br>
+      • Bodyweight Strength Specialist
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📈 Activity Hub
+
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR-USERNAME]&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=vision-friendly-dark&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=vision-friendly-dark&hide_border=true" width="45%" />
 </p>
 
-### 🤝 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/[YOUR-LINKEDIN]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[Your Name]" height="30" width="40" /></a>
-<a href="https://instagram.com/[YOUR-INSTAGRAM]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[Your Name]" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[YOUR-USERNAME]&theme=tokyonight" width="90%" />
+</div>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/snake.gif" width="100%" alt="snake animation" />
+---
+
+### 💬 Get In Touch
+<div align="center">
+  <a href="https://linkedin.com/in/[YOUR-LINKEDIN]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/[YOUR-INSTAGRAM]">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="80%" />
+</div>
