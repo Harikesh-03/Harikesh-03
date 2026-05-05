@@ -1,7 +1,7 @@
 <div align="center">
   
 # 💫 Hi there, I'm Harikesh Singh
-<a href="https://github.com/Brijesh0006">
+<a href="https://github.com/Harikesh-03">
   <img src="https://capsule-render.vercel.app/render?type=rect&color=00b4d8&height=150&section=header&text=Full%20Stack%20Developer%20&%20Creator&fontSize=45&animation=fadeIn&fontAlignY=35&fontColor=ffffff" />
 </a>
 
