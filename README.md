@@ -1,6 +1,6 @@
 <div align="center">
   
-# 💫 Hi there, I'm [Your Name]
+# 💫 Hi there, I'm Harikesh Singh
 <a href="https://github.com/Brijesh0006">
   <img src="https://capsule-render.vercel.app/render?type=rect&color=00b4d8&height=150&section=header&text=Full%20Stack%20Developer%20&%20Creator&fontSize=45&animation=fadeIn&fontAlignY=35&fontColor=ffffff" />
 </a>
@@ -44,14 +44,14 @@
     </tr>
   </table>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR-USERNAME]&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harikesh-03&theme=tokyonight&hide_border=true" width="100%" />
 </div>
 
 ---
 
 ### 🤝 Let's Connect
 <div align="center">
-  <a href="https://linkedin.com/in/[YOUR-LINKEDIN]" target="_blank">
+  <a href="https://www.linkedin.com/in/harikesh-singh-a4b292325?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/[YOUR-INSTAGRAM]" target="_blank">
